@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AppVeyor-Test/ConsoleApp1/bin/Debug/netcoreapp2.1
+/AppVeyor-Test/ConsoleApp1/obj
+/AppVeyor-Test/.vs/AppVeyor-Test/v15
